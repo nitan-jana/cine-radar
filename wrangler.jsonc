@@ -1,5 +1,6 @@
 {
   "name": "cine-radar",
   "compatibility_date": "2026-09-30",
+  "routes": [{ "pattern": "cine-radar.nitanjana.com", "custom_domain": true }],
   "assets": { "directory": "./dist", "not_found_handling": "single-page-application" }
 }
